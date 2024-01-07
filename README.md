@@ -611,7 +611,7 @@ There was an evening where my boyfriend was wondering why I was spending so much
 6.  The zipper does not open, follow steps 2 - 4 until you open the zipper.
 
 This is a quick and easy challenge we were able to achieve in less than 10 minutes to complete. I am curious if this will work with my match luggage that I have in the closet. For those who may be reading this, my combination is not 1,2,3,4,5.
-https://github.com/akirylak/2023-SHH/blob/main/Chapter%208%20-%20Luggage%20Lock/LuggageLock2.png
+![](https://github.com/akirylak/2023-SHH/blob/main/Chapter%208%20-%20Luggage%20Lock/LuggageLock2.png)
 
 ## Chapter 9 Challenge: Na’an
 ### Location: Film Noir Island / Chiaroscuro City
