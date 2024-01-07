@@ -1,19 +1,5 @@
 # SANS HOLIDAY HACK 2023: SimonCypherSays Report
 
-Introduction
-Chapter 1 Challenge: Holiday Hack Orientation
-Chapter 2 Challenge: Snowball Fight
-Chapter 3 Challenge: Linux 101
-Chapter 4 Challenge: Reportinator
-Chapter 5 Challenge: Azure 101
-Chapter 6 Challenge: Hashcat
-Chapter 7 Challenge: LinuxPrivEsc
-Chapter 8 Challenge: Luggage Lock
-Chapter 9 Challenge: Na’an
-Chapter 10 Challenge: Elf Hunt
-Final Words
-Honorable Mentions
-
 ## Introduction
 The anticipation leading up to receiving the email notification of the 2023 SANS Holiday Hack had me on the edge of my seat as I patiently waited for the invitation to land in my inbox. On December 7, 2023 at 7:00AM EST, it finally arrived in my inbox. Although I wanted to click the **Play Now** button immediately. I had to patiently wait until the evening when I can start the challenge when I can safely and securely transform into **SimonCypherSays**: the overexcited beginner CTF competitor who tackles challenges to save the day; or in this case, help Santa before he travels the world to deliver presents to children for Christmas.
 
