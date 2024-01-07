@@ -415,6 +415,8 @@ Because ```--kernel-loops 1``` is the same as ```-u 1```, we will favor the use 
 ![](https://github.com/akirylak/2023-SHH/blob/main/Chapter%206%20-%20Hashcat/Hashcat0-15.png)
 ![](https://github.com/akirylak/2023-SHH/blob/main/Chapter%206%20-%20Hashcat/Hashcat0-16.png)
 
+**January 6 2023 Revision** Upon uploading this report to Github, I discovered at the end of the hash, the password is visible at the tail. During the time of creating this report, I had overlooked this detail. However, the following below is how I was able to achieve finding the password the long way by identifying the password. If you look at the tail of the hash function, you can see the password is **IluvC4ndyC4nes!**
+
 Finally, with some trial and error, and discovery, we have a status update! We identified potential candidates for a potential password. However, before we can submit the potential password, we are presented with a small challenge. We recovered 1 password, however the system identified candidates from the list.. Let’s rerun the command and change the ```-w 3``` workload to 3 or high.
 ![](https://github.com/akirylak/2023-SHH/blob/main/Chapter%206%20-%20Hashcat/Hashcat0-17.png)
 
