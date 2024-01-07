@@ -50,6 +50,8 @@ Because ```--kernel-loops 1``` is the same as ```-u 1```, we will favor the use 
 Finally, with some trial and error, and discovery, we have a status update! We identified potential candidates for a potential password. However, before we can submit the potential password, we are presented with a small challenge. We recovered 1 password, however the system identified candidates from the list.. Let’s rerun the command and change the ```-w 3``` workload to 3 or high.
 ![](https://github.com/akirylak/2023-SHH/blob/main/Chapter%206%20-%20Hashcat/Hashcat0-17.png)
 
+**January 6 2023 Revision** Upon uploading this report to Github, I discovered at the end of the hash, the password is visible at the tail. During the time of creating this report, I had overlooked this detail. However, the following below is how I was able to achieve finding the password the long way by identifying the password. If you look at the tail of the hash function, you can see the password is **IluvC4ndyC4nes!**
+
 Ah, another clue!!! And I thought I would have to read the entire hashcat documentation and trial and error more commands. **All hashes found in potfile! Use --show to display them.** Let’s give this a try, ```hashcat --show -m 18200 password_list.txt```
 The reason why we want to include ```-m 18200```, we want to load all hashes for ASREP for a response.
 ![](https://github.com/akirylak/2023-SHH/blob/main/Chapter%206%20-%20Hashcat/Hashcat0-18.png)
