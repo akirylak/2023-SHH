@@ -15,19 +15,25 @@ Final Words
 Honorable Mentions
 
 ## Introduction
+The anticipation leading up to receiving the email notification of the 2023 SANS Holiday Hack had me on the edge of my seat as I patiently waited for the invitation to land in my inbox. On December 7, 2023 at 7:00AM EST, it finally arrived in my inbox. Although I wanted to click the **Play Now** button immediately. I had to patiently wait until the evening when I can start the challenge when I can safely and securely transform into **SimonCypherSays**: the overexcited beginner CTF competitor who tackles challenges to save the day; or in this case, help Santa before he travels the world to deliver presents to children for Christmas.
 
-The anticipation leading up to receiving the email notification of the 2023 SANS Holiday Hack had me on the edge of my seat as I patiently waited for the invitation to land in my inbox. On December 7, 2023 at 7:00AM EST, it finally arrived in my inbox. Although I wanted to click the Play Now button immediately. I had to patiently wait until the evening when I can start the challenge when I can safely and securely transform into SimonCypherSays: the overexcited beginner CTF competitor who tackles challenges to save the day; or in this case, help Santa before he travels the world to deliver presents to children for Christmas.
-Chapter 1 Challenge: Holiday Hack Orientation
-Location: Christmas Island
+
+## Chapter 1 Challenge: Holiday Hack Orientation
+### Location: Christmas Island
 The boat ride to Christmas Island was extremely quick as I felt like I teleported from the real world into the digital world of the Geese Islands. You can say it was more like a smooth transition rather than smooth sailing. Thankfully I do not get SYN/ACK sick or sea sick.
 
-As I approach closer to the center of the island I am greeted by an elf named Jingle Ringford to give me an introduction of what is to come with this year’s SANS Holiday Hack.
+As I approach closer to the center of the island I am greeted by an elf named **Jingle Ringford** to give me an introduction of what is to come with this year’s SANS Holiday Hack.
+![](https://github.com/akirylak/2023-SHH/blob/main/Chapter%201%20-%20Orientation/Chapter1_orientation1.png)
 Instructions on how to complete the first challenge were very straight forward. As a person who has completed previous CTF challenges, the objective to click on the upper panel of the terminal window and type answer and press Enter on the keyboard was very straightforward.
 If completing the first challenge was this easy, I have a gut feeling, filled with Flaming Hot Cheetos and coffee that completing the challenges should be very straightforward.
-Solving the Challenge
+![](https://github.com/akirylak/2023-SHH/blob/main/Chapter%201%20-%20Orientation/Chapter1_orientation2.png)
+
+### Solving the Challenge
 Follow the instructions in the orientation terminal to complete.
-Chapter 2 Challenge: Snowball Fight
-Location: Christmas Island / Frosty Beach
+
+
+## Chapter 2 Challenge: Snowball Fight
+### Location: Christmas Island / Frosty Beach
 Thank you SANS for providing some directions to Frosty Beach. I am not a sailor nor would I ever be commandeering a ship. The GPS signals here are very good compared to other places I have been near an ocean.
 
 Upon arriving on Frosty Beach, I wasn’t sure who to be excited about; meeting Santa in person or meeting a goose who wasn’t trying to chase me for a bite of my lunch. After an introduction of Santa’s operations on Geese Islands, the use of Chat NPT and an introduction to the challenge. I don’t blame Santa for taking a break and moving operations to a warmer climate. I do not live near the North Pole, yet where I am with the heat on, I wish I was near the equator around this time of year. I was recommended to speak to Morsel Nougat about a Snowball Fight and to stop by Santa’s Surf Shack.
